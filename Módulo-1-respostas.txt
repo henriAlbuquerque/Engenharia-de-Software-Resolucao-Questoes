@@ -1,74 +1,70 @@
+1- Um software é um conjunto de artefatos que inclui códigos executáveis e scripts,
+código-fonte, dados, gráficos, documentos e etc. Na pespectiva da Engenharia
+de Software ele é visto como um produto. Enquanto produto, ele deve ser viável em termos 
+de custo e prazo, deve atender a necessidades dos financiadores, usuários e demais interessados.
+O seu planejamento deve considerar diferentes aspectos como: concepção, construção, implantação,
+manutenção e evolução. Deve também atender requisitos de qualidade.
 
-1- Planejamento para o objetivo final, considerando um escopo;
-
-   Tamanho estimado para avaliação de prazo, custo e alocação de equipe;
-
-   Utiliza recurso técnicos;
-
-   Responsabilidades em diferentes níveis;
-
-   Atividades, eventualemte orgainzadas em blocos, orientado por
-   práticas que podem:
-   	-Possuir dependências.
-	-Ser paralelizadas e, posteriormente, sincronizadas.
-	-Ser decompostas para efeito de redução da complexidade e melhor gerenciamento.
+Esse conceito, gera implicações além das anteriores do desenvolvedor ter envolvimento com a própria
+enunciação do problema a ser resolvido, ou seja, como integrante da "comunidade do projeto"
+o desenvolvedor cria maior senso de responsabilidade sobre todos os apectos inerentes ao produto.
 
 
-2- A medida que se aumenta o numero de participantes em um projeto, cresce também 
-   o número de canais de comunicação, logo torna-se mais complexo a gestão 
-   e organização do projeto.
+2- A vantagem é que ele ainda tem um impacto positivo, mesmo quando se trata de uma aplicação
+de interesse interno da organização.
 
 
-3- Não. O produto possui qualidade interna e externa, o máximo que o processo
-   pode fazer é influienciar na qualidade das propriedades internas, mas não
-   garante que a propriedade externar terá boa influencia das propriedades
-   internas.
+3- Códigos executáveis e scripts, códigos-fonte, dados, gráficos, documentos, segurança,
+boa interação com usuário e etc.
 
 
-4- Usuários e cliente envolvido apenas no início e no fim do projeto;
+4- Consiste na especificação de um conjunto estruturado de fluxos de trabalho que
+disciplinam a execução de múltiplas atividades visando o desenvolvimento de um produto
+do tipo software.
 
-   Não considera a evolução/mudança de requisitos ao longo do projeto;
+5- Projeto corresponde à construção de um produto segundo a orientação de um processo (ou método).
 
-   Testes executados tardiamente;
+6- Entendimento do problema: Aprendizado sobre o domínio do problema. domínio do problema
+   raramente muda.
 
-   Realocação de RH para atividades supostamente concluídas (problema de gestão);
+   Especificação: O quê será implementado? Levantamento, análise, classificação e priorização de requisitos.
+   Formalização do produto a ser desenvolvido. O domínio da solução muda constantemente.
 
-5-
+   Design: Como será implementado? Trabalho centrado no domínio da solução. Aplicação de técnicas
+   e métodos para o detalhamento do que será implementado, considerando os requisitos funcionais
+   e não-funcionais.
 
-6-
+   Implementação: Emprego de técnicas e uso de tecnologias para construção do produto final.
 
-7-
+   Verificação e Validação: Verificação: o sistema atende ao que foi especificado?
+   Validação: o sistema atende às necessidades e expectativas do cliente?
+   Aplicação de técnicas de teste em múltiplas perspectivas para V&V.
+
+7- 
 
 8-
 
-9-
+9- Existem várias definições. Uma delas é que a "Engenharia de Software é a aplicação de abordagens
+sistemáticas, disciplinadas e quantificáveis ao desenvolvimento, operação e manutenção de software,
+além dos estudos dessas abordagens". Ela não é uma definição consesual, pois algumas tratam de 
+abordar sobre a otimização e evoluir o software.
 
-10-
+10- Não. Gestão de projetos trabalha mais com pessoas que com aplicações, análise e desenvolvimento.
 
-11-
+11- Atraso de cronograma;
+    Estouro no orçamento;
+    Produto final de baixa qualidade;
+    Software não atende aos requisitos reais dos interessados;
+    Produtos não são gerenciáveis e difíceis de manter e evoluir;
 
-12-
+    Alguns desses problemas foram mitigados graças aos métodos ágeis, porém alguns
+    deles como o atraso de cronograma ainda é comum ocorrer nos projetos, devido a
+    vários fatores como por exemplo mudanças no projeto para satisfazer o cliente.
 
-13-
+12- Não. Pois atualmente possuem novos recursos e tecnologias, logo gerando problemas diferentes.
 
-14-
+13- Clean code, padronização.
 
-15-
+14- Não ser regulamentada, acúmulo de funções, conhecimento técnico disperso, tempo, indecisão do cliente
 
-16-
 
-17-
-
-18-
-
-19-
-
-20-
-
-21-
-
-22-
-
-23-
-
-24-
