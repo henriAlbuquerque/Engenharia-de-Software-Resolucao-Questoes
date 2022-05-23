@@ -1,0 +1,74 @@
+
+1- Planejamento para o objetivo final, considerando um escopo;
+
+   Tamanho estimado para avaliação de prazo, custo e alocação de equipe;
+
+   Utiliza recurso técnicos;
+
+   Responsabilidades em diferentes níveis;
+
+   Atividades, eventualemte orgainzadas em blocos, orientado por
+   práticas que podem:
+   	-Possuir dependências.
+	-Ser paralelizadas e, posteriormente, sincronizadas.
+	-Ser decompostas para efeito de redução da complexidade e melhor gerenciamento.
+
+
+2- A medida que se aumenta o numero de participantes em um projeto, cresce também 
+   o número de canais de comunicação, logo torna-se mais complexo a gestão 
+   e organização do projeto.
+
+
+3- Não. O produto possui qualidade interna e externa, o máximo que o processo
+   pode fazer é influienciar na qualidade das propriedades internas, mas não
+   garante que a propriedade externar terá boa influencia das propriedades
+   internas.
+
+
+4- Usuários e cliente envolvido apenas no início e no fim do projeto;
+
+   Não considera a evolução/mudança de requisitos ao longo do projeto;
+
+   Testes executados tardiamente;
+
+   Realocação de RH para atividades supostamente concluídas (problema de gestão);
+
+5-
+
+6-
+
+7-
+
+8-
+
+9-
+
+10-
+
+11-
+
+12-
+
+13-
+
+14-
+
+15-
+
+16-
+
+17-
+
+18-
+
+19-
+
+20-
+
+21-
+
+22-
+
+23-
+
+24-
