@@ -1,0 +1,79 @@
+Manifesto Ágil:
+
+1- A colaboração está na satisfação do cliente através da entrega contínua e adiantada, recebendo
+   feedback do cliente a cada nível do projeto.
+
+2- 
+
+3- Dono de uma empresa de software, stakeholdes.
+
+4- Se adaptar as mudanças do ambiente e da concorrência no mercado de software.
+
+5- Investidores, stakeholdes.
+
+6-
+
+7-
+
+8-
+
+9-
+
+10-
+
+11-
+
+12-
+
+
+SCRUM
+
+1- 
+
+2-
+
+3-
+
+4- 
+
+5-
+
+6- 
+
+7-
+
+8-
+
+9-
+
+10-
+
+11-
+
+12-
+
+
+Extreme Programming
+
+1- Sim. As mudanças solicitadas serão aceitas pela equipe para recondozir à direção correta. Os clientes
+   recebem o feedback sobre o progresso a partir de testes de acitação e demonstrações ao final de cada
+   iteração.
+
+2-
+
+3-
+
+4- Compartilhamento do conhecimento, correção de falhas, manutenibilidade, confiança, amadurecimento,
+   pressão do par, velocidade.
+
+5-
+
+6- Para receberem feedback constantemente e caminhar na direção correta. 
+
+7-
+
+8- A refatoração é feita sempre quando for possível;
+   Configurar e dedicar um computador para integração;
+   Integração de código de um par por vez;
+
+
