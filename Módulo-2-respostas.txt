@@ -1,4 +1,3 @@
-
 1- Planejamento para o objetivo final, considerando um escopo;
 
    Tamanho estimado para avaliação de prazo, custo e alocação de equipe;
@@ -35,40 +34,72 @@
 
 5-
 
-6-
+6- Desenvolvimento iterativo: é um método que visa antecipar os requisitos com maior risco
+   para as primeiras iterações para mitigar esses riscos, dessa forma segmentando o projeto
+   de forma que tenha integração para gerar o produto final.
 
-7-
+   Desenvolvimento incremental: é um método que visa também diminuir os riscos, contudo ele entrega o projeto 
+   em releases, ou seja, lançamentos com novas implementações até chegar no produto final.
 
-8-
+   Sim, porque no iterativo terá só um produto final e sem release, dessa forma integrando todos os segmentos.
 
-9-
 
-10-
+7- Menos riscos, possui processos em espiral que aumenta a análise de riscos técnicos gerencias evitando
+   que torne problemático.
 
-11-
+   Algumas consequencias dessa abordagem é que o gerenciamento é mais complexo para grandes projetos e
+   no caso do processo espiral pode ter difícil prospecção do tempo necessário a cada ciclo.
 
-12-
 
-13-
+8- Porque mitiga o desconhecimento do projeto quando se antecipa os requisitos com maior risco.
 
-14-
 
-15-
+9- Sequencial, porque ainda existe aglutinamento de blocos sem que haja outros segmentos, exceto o
+   segmento de testes.
 
-16-
 
-17-
+10- O benefício é que colabora para a cultura da qualidade em projetos de software, porém ainda existe
+    retrabalho e realocação e também reação a emergência de requisitos e difícil gestão de mudanças.
 
-18-
+11- Análise de riscos técnicos e gerenciais em todas as etapas do projeto, visando reduzi-lo antes
+    que se tornem problemáticos. A participação com o cliente é diferente, pois no modelo cascata
+    só ocorre no final do processo, enquanto no modelo espiral ocorre a cada iteração.
+
+
+12- Significa que reune as melhores práticas e ferramentas para construir um projeto.
+
+
+13- 
+
+14- Descrever o uso de uma funcionalidade do sistema.
+
+
+15- São feitos na perspectiva da interação entre atores e o software.
+
+16- 
+
+17- Antecipação da implementação dos casos de uso mais críticos;
+    Uso de prototipação para redução de incertezas;
+    Verificação constante da qualidade;
+    Controle de riscos desde o início do projeto;
+
+
+18- Sim. Porque ele é baseado em componentes com ênfase na reutilização e manutenção. As interfaces
+    são bem definidas entre componentes, que seguem princípios de alta coesão e baixo desacoplamento.
+
 
 19-
 
 20-
 
-21-
+21- Análise de riscos.
 
 22-
 
-23-
+23- Qualquer produto: documento, relatório, código-fonte, executável, etc. Eles são produzidos, manipulado
+    ou consumidos nas atividades.
 
-24-
+24- Sim. Isso é importante para reduzir a ambiguidade, minimizar a sobrecarga associada à geração e à
+    manutenção de documentos e maximizar o conteúdo das informações.
+
+
