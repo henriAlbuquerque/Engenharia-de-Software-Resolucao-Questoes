@@ -28,29 +28,34 @@ Manifesto Ágil:
 
 SCRUM
 
-1- 
+1- Dev Team, PO, Scrum Master.
 
-2-
+2- Sim. Para definir a prioridade das histórias o PO analisa o valor agregado em cada sprint e o tamanho ou
+   complexidade dela, dessa forma priorizando aquelas que possuem maior valor e menor complexidade.
 
 3-
 
 4- 
 
-5-
+5- Porque o SCRUM trabalha com um gráfico que analisa o grau de tecnologia e conhecimento de requisitos. O SCRUM
+   trabalha lado a lado com o cliente em busca de entender o que se espera do projeto, dessa forma a cada
+   iteração se aproximando cada vez mais do produto final esperado.
 
 6- 
 
 7-
 
-8-
+8- No final de cada sprint é realizado reuniões com todos os membros do SCRUM, em que o cliente irá testar
+   as funcionalidades aplicadas na sprint retornando um feedback.
 
-9-
+9- No final de cada sprint, caso aprovado pelo cliente se torna um release do projeto.
 
-10-
+10- Não. Ele orienta sobre sobre como usar o SCRUM da melhor forma possível.
 
-11-
+11- Analisar se um sprint está atrasada ou adiantada de acordo com o tempo e entregas.
 
-12-
+12- A queda de desempenho ocorre quando a linha está acima da reta do gráfico e o aumento ocorre
+    quando a linha está abaixo da reta do gráfico.
 
 
 Extreme Programming
@@ -75,5 +80,3 @@ Extreme Programming
 8- A refatoração é feita sempre quando for possível;
    Configurar e dedicar um computador para integração;
    Integração de código de um par por vez;
-
-
